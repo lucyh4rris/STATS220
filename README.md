@@ -14,7 +14,7 @@
 More info can be found here in the [Course Outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243) !!
 
 ## About me !
-- I am a second year data science student at UoA 📈
+- I am a second year **data science** student at UoA 📈
 - I am the marketing officer for UoA's Women in Science club! 👩‍🔬
 - I love to run and go to the gym 🏃🏋️ 
 
